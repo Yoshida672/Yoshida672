@@ -16,12 +16,7 @@
 
 
 ---
-## Status 
 
-![Yoshida Github stats](https://github-readme-stats.vercel.app/api?username=Yoshida672&theme=highcontrast)
----
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshida672&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
----
 ### Tecnologias 
 
 <div classname="inline">
