@@ -2,8 +2,13 @@
 ---
 ## Apresentação 
 
-### Olá, meu nome é Eric Yoshida 
+### Olá! Eu sou o Eric Yoshida 👋
 
+Sou formado em Análise e Desenvolvimento de Sistemas e tenho interesse em atuar como Desenvolvedor Back-end Júnior.
+
+Atualmente, estou focado em aprender e desenvolver projetos utilizando Java e Spring Boot, aplicando boas práticas de desenvolvimento, metodologias ágeis e integração contínua.
+
+---
 
 ## Redes Sociais
 
